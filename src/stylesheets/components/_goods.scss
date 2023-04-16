@@ -13,6 +13,7 @@
   row-gap: 70px;
   column-gap: 75px;
   padding-left: 10%;
+  margin: 50px;
   z-index: 1;
 }
 
@@ -99,6 +100,7 @@
     @include flex-col;
     align-items: start;
     padding-left: 0;
+    margin: 0px;
   }
 }
 
